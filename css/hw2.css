@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: rgb(102, 35, 35);
+    overflow: hidden;
+}
+* {
+ box-sizing: border-box;
+}
+.m2 {
+
+    text-transform: uppercase;
+
+}
+.js {
+    
+    font-family: "Poppins", sans-serif;
+}
+.js2 {
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+.js3 {
+    position: relative;
+    bottom: 28.23em;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+
+}
+.js4 {
+    position: relative;
+    bottom: 28.23em ;
+    text-align: center;
+    justify-content: space-between;
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+.js5 {
+    position: relative;
+    bottom: 54.2em;
+    text-align: end;
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+.js6 {
+    position: relative;
+    bottom: 54.2em;
+    text-align: end;
+    font-family: "Poppins", sans-serif;
+}
